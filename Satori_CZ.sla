@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.8">
+    <DOCUMENT ANZPAGES="11" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="cs" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.001" MAJGRID="100.001" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.001" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.001" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.001" dispY="10.001" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Calibri Regular" FONTSIZE="10" FONTFEATURES="-clig" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="cs"/>
+        <CHARSTYLE CNAME="Headings" CPARENT="Default Character Style" FONT="Kwokwi Regular" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Zvýraznění italikou" CPARENT="Default Character Style" FONT="Calibri Italic" FONTFEATURES="-clig"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="Heading 1" PARENT="Default Paragraph Style" VOR="16" NACH="8" CPARENT="Headings" FONTSIZE="20"/>
+        <STYLE NAME="Zvláštní odstavec" PARENT="Default Paragraph Style" NACH="6" CPARENT="Zvýraznění italikou"/>
+        <STYLE NAME="Příklad" PARENT="Default Paragraph Style" CPARENT="Zvýraznění italikou"/>
+        <STYLE NAME="Běžný odstavec" PARENT="Default Paragraph Style" ALIGN="3" NACH="6" CPARENT="Default Character Style" FONTSIZE="11"/>
+        <STYLE NAME="Heading 2" PARENT="Default Paragraph Style" NACH="6" CPARENT="Headings" FONTSIZE="17"/>
+        <STYLE NAME="Komponenty" PARENT="Default Paragraph Style" LINESP="14" INDENT="14.1732283464567" NACH="0" OpticalMargins="4" FONTSIZE="7"/>
+        <STYLE NAME="Číslovaný seznam" PARENT="Default Paragraph Style" ALIGN="3" INDENT="19.8425196850394" FIRST="-19.8425196850394" FONTSIZE="11">
+            <Tabs Type="0" Pos="19.8425196850394" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Heading 3" PARENT="Default Paragraph Style" NACH="6" CPARENT="Headings" FONTSIZE="14"/>
+        <STYLE NAME="Heading 4" PARENT="Default Paragraph Style" NACH="6" CPARENT="Headings" FONTSIZE="11"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Pozadí" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="4" markLength="20.0013" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="\\mikro2\Dell Laser Printer 1720dn XL" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Subset Name="Calibri Bold"/>
+            <Subset Name="Calibri Bold Italic"/>
+            <Subset Name="Calibri Italic"/>
+            <Subset Name="Calibri Regular"/>
+            <Subset Name="Kwokwi Regular"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="10" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normální vlevo" MNAM="" Size="A4" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="Normální vpravo" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276590551181" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normální vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="901.890763779528" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normální vlevo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276590551181" PAGEYPOS="901.890763779528" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normální vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="1783.78052755906" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="Normální vlevo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276590551181" PAGEYPOS="1783.78052755906" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normální vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="2665.67029133858" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="Normální vlevo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276590551181" PAGEYPOS="2665.67029133858" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="" MNAM="Normální vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="3547.56005511811" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="7" NAM="" MNAM="Normální vlevo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276590551181" PAGEYPOS="3547.56005511811" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="8" NAM="" MNAM="Normální vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="4429.44981889764" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="9" NAM="" MNAM="Normální vlevo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276590551181" PAGEYPOS="4429.44981889764" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="10" NAM="" MNAM="Normální vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="142.886407941029" YPOS="1226.78840157481" OwnPage="1" ItemID="258132512" PTYPE="4" WIDTH="122.762224277816" HEIGHT="140.7805714525" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L122.762 0 L122.762 140.781 L0 140.781 L0 0 Z" copath="M0 0 L122.762 0 L122.762 140.781 L0 140.781 L0 0 Z" gXpos="142.886407941029" gYpos="1226.78840157481" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Herní plán"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Velká hora"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Architekt"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Žetony pagody"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Sörin (špička pagody)"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Žetony bodů Sörin"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Meditační žetony (první éra)"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Meditační žetony (druhá éra)"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Žeton Hikari (světlo)"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Žetony kadidelnice Jokoro - neutrální"/>
+                <trail PARENT="Komponenty"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="735.191489361702" YPOS="59.8297872340426" OwnPage="0" ItemID="258129680" PTYPE="2" WIDTH="515.062824593734" HEIGHT="508" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.171505739365294" LOCALSCY="0.171505739365294" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Reglamento_Satori_EN.png" IRENDER="0" EMBEDDED="0" path="M0 0 L515.063 0 L515.063 508 L0 508 L0 0 Z" copath="M0 0 L515.063 0 L515.063 508 L0 508 L0 0 Z" gXpos="735.191489361702" gYpos="59.8297872340426" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="265.378723404255" YPOS="942.531914893616" OwnPage="1" ItemID="258146672" PTYPE="2" WIDTH="243.64255319149" HEIGHT="81" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.230113636363636" LOCALSCY="0.230113636363636" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="SatoriLogo.png" IRENDER="0" EMBEDDED="0" path="M0 0 L243.643 0 L243.643 81 L0 81 L0 0 Z" copath="M0 0 L243.643 0 L243.643 81 L0 81 L0 0 Z" gXpos="265.378723404255" gYpos="942.531914893616" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140.425531914894" YPOS="1023.59574468085" OwnPage="1" ItemID="258149504" PTYPE="4" WIDTH="516.115496733121" HEIGHT="201.444625397891" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L516.115 0 L516.115 201.445 L0 201.445 L0 0 Z" copath="M0 0 L516.115 0 L516.115 201.445 L0 201.445 L0 0 Z" gXpos="140.425531914894" gYpos="1023.59574468085" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="1. Úvodem"/>
+                <para PARENT="Heading 1"/>
+                <ITEXT CH="Satori je japonský termín pro osvícení: stav mysli, ve kterém existujete pouze v přítomnosti; minulost a budoucnost se rozplynou a vytvoří jasnost myšlení skrze transcendenci."/>
+                <para PARENT="Zvláštní odstavec"/>
+                <ITEXT CH="Ve hře Satori soutěží hráči o postup na své duchovní cestě. Musí vést věřící k různým oltářům, k meditaci a modlitbám, stejně jako mnichy k horám, kde hledají moudrost a osvícení, nebo pomáhat architektovi při stavbě Velké pagody."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Na konci hry bude vítězem ten, kdo si vybral nejlepší cestu k Satori, jak je znázorněno na stupnici bodů."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="2. Komponenty"/>
+                <para PARENT="Heading 1"/>
+                <ITEXT CH="2.1 Hlavní komponenty"/>
+                <para PARENT="Heading 2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="420.397046238901" YPOS="1155.02462204724" OwnPage="1" ItemID="258138176" PTYPE="2" WIDTH="234.021276595745" HEIGHT="304.9966545485" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.16668182093714" LOCALSCY="0.16668182093714" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="HlavniKomponenty.png" IRENDER="0" EMBEDDED="0" path="M0 0 L234.021 0 L234.021 304.997 L0 304.997 L0 0 Z" copath="M0 0 L234.021 0 L234.021 304.997 L0 304.997 L0 0 Z" gXpos="420.397046238901" gYpos="1155.02462204724" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="141.106382978723" YPOS="1251.04037007874" OwnPage="1" ItemID="258152336" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="141.106382978723" gYpos="1251.04037007874" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="141.106382978723" YPOS="1265.04037007874" OwnPage="1" ItemID="258135344" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="141.106382978723" gYpos="1265.04037007874" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="141.106382978723" YPOS="1279.04037007874" OwnPage="1" ItemID="258141008" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G3.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="141.106382978723" gYpos="1279.04037007874" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="141.106382978723" YPOS="1293.04037007874" OwnPage="1" ItemID="258126848" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G4.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="141.106382978723" gYpos="1293.04037007874" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="141.106382978723" YPOS="1307.04037007874" OwnPage="1" ItemID="258143840" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G5.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="141.106382978723" gYpos="1307.04037007874" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="141.106382978723" YPOS="1321.04037007874" OwnPage="1" ItemID="258169328" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G6.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="141.106382978723" gYpos="1321.04037007874" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="141.106382978723" YPOS="1335.04037007874" OwnPage="1" ItemID="258174992" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G7.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="141.106382978723" gYpos="1335.04037007874" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="141.106382978723" YPOS="1349.04037007874" OwnPage="1" ItemID="258160832" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G8.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="141.106382978723" gYpos="1349.04037007874" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="273.886407941029" YPOS="1226.78934645669" OwnPage="1" ItemID="258163664" PTYPE="4" WIDTH="147.250922813323" HEIGHT="164.436106261137" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L147.251 0 L147.251 164.436 L0 164.436 L0 0 Z" copath="M0 0 L147.251 0 L147.251 164.436 L0 164.436 L0 0 Z" gXpos="273.886407941029" gYpos="1226.78934645669" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Žetony nákladů kadidelnice Jokoro"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Žetony zrušených nákladů kadidelnice Jokoro"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Žetony oltářů"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Dekorační žetony oltářů"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Figurky věřících (5 pro každou barvu)"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Počáteční žetony"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Žetony smaragdů"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Žetony kamenů"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Žetony dřeva"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Mince"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Žetony amuletů"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Pytel zhouby"/>
+                <trail PARENT="Komponenty"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="272.106382978723" YPOS="1251.04131496063" OwnPage="1" ItemID="258166496" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G11.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="272.106382978723" gYpos="1251.04131496062" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="272.106382978723" YPOS="1265.04131496063" OwnPage="1" ItemID="258177824" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G12.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="272.106382978723" gYpos="1265.04131496062" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="272.106382978723" YPOS="1279.04131496063" OwnPage="1" ItemID="258172160" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G13.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="272.106382978723" gYpos="1279.04131496062" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="272.106382978723" YPOS="1293.04131496063" OwnPage="1" ItemID="258180656" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G14.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="272.106382978723" gYpos="1293.04131496062" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="272.106382978723" YPOS="1307.04131496063" OwnPage="1" ItemID="258155168" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G15.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="272.106382978723" gYpos="1307.04131496062" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="272.106382978723" YPOS="1321.04131496063" OwnPage="1" ItemID="258158000" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G16.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="272.106382978723" gYpos="1321.04131496062" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="272.106382978723" YPOS="1335.04131496063" OwnPage="1" ItemID="258186320" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G17.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="272.106382978723" gYpos="1335.04131496062" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="272.106382978723" YPOS="1349.04131496063" OwnPage="1" ItemID="258189152" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G18.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="272.106382978723" gYpos="1349.04131496062" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="272.106382978723" YPOS="1237.04131496063" OwnPage="1" ItemID="332081008" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G10.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="272.106382978723" gYpos="1237.04131496063" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="272.106382978723" YPOS="1223.04131496063" OwnPage="1" ItemID="332075344" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G9.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="272.106382978723" gYpos="1223.04131496063" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="272.106382978723" YPOS="1363.04131496063" OwnPage="1" ItemID="332066848" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G19.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="272.106382978723" gYpos="1363.04131496063" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140.156469927961" YPOS="1432.44680851064" OwnPage="1" ItemID="332083840" PTYPE="4" WIDTH="280.159490701961" HEIGHT="27.8455300720407" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.159 0 L280.159 27.8455 L0 27.8455 L0 0 Z" copath="M0 0 L280.159 0 L280.159 27.8455 L0 27.8455 L0 0 Z" gXpos="140.156469927961" gYpos="1432.44680851064" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="2.2 Komponenty každého hráče"/>
+                <trail PARENT="Heading 2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.091640140726" YPOS="1460.04255319149" OwnPage="1" ItemID="332064016" PTYPE="2" WIDTH="348.255816552187" HEIGHT="176.723404255319" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.217117092613583" LOCALSCY="0.217117092613583" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="IndivKomponenty.png" IRENDER="0" EMBEDDED="0" path="M0 0 L348.256 0 L348.256 176.723 L0 176.723 L0 0 Z" copath="M0 0 L348.256 0 L348.256 176.723 L0 176.723 L0 0 Z" gXpos="140.091640140726" gYpos="1460.04255319149" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="514.886407941029" YPOS="1468.61517322835" OwnPage="1" ItemID="332069680" PTYPE="4" WIDTH="122.762224277816" HEIGHT="140.7805714525" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L122.762 0 L122.762 140.781 L0 140.781 L0 0 Z" copath="M0 0 L122.762 0 L122.762 140.781 L0 140.781 L0 0 Z" gXpos="514.886407941029" gYpos="1468.61517322835" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Mniši"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Kadidelnice Jokoro"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Žetony sekty"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Ukazatel na stupnici obětí"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Ukazatel ruky pro modlitební mlýnky"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Ukazatel stupnice kadidelnice"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Ukazatel stupnice bodů"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Zvony"/>
+                <para PARENT="Komponenty"/>
+                <ITEXT CH="Žeton +40"/>
+                <trail PARENT="Komponenty"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="513.106382978723" YPOS="1464.52068503937" OwnPage="1" ItemID="332072512" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="513.106382978723" gYpos="1464.52068503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="513.106382978723" YPOS="1478.52068503937" OwnPage="1" ItemID="332058352" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="513.106382978723" gYpos="1478.52068503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="513.106382978723" YPOS="1492.52068503937" OwnPage="1" ItemID="332086672" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G3.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="513.106382978723" gYpos="1492.52068503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="513.106382978723" YPOS="1506.52068503937" OwnPage="1" ItemID="332098000" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G4.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="513.106382978723" gYpos="1506.52068503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="513.106382978723" YPOS="1520.52068503937" OwnPage="1" ItemID="332100832" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G5.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="513.106382978723" gYpos="1520.52068503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="513.106382978723" YPOS="1534.52068503937" OwnPage="1" ItemID="332103664" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G6.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="513.106382978723" gYpos="1534.52068503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="513.106382978723" YPOS="1548.52068503937" OwnPage="1" ItemID="332095168" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G7.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="513.106382978723" gYpos="1548.52068503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="513.106382978723" YPOS="1562.52068503937" OwnPage="1" ItemID="332078176" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G8.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="513.106382978723" gYpos="1562.52068503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="513.106382978723" YPOS="1576.86808661417" OwnPage="1" ItemID="332092336" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="14.1732283464567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.240224209261978" LOCALSCY="0.240224209261978" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="G9.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 14.1732 L0 14.1732 L0 0 Z" gXpos="513.106382978723" gYpos="1576.86808661417" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="736.31914893617" YPOS="943.612832970345" OwnPage="2" ItemID="332106496" PTYPE="2" WIDTH="549.359854079409" HEIGHT="352.531914893616" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.258265139116202" LOCALSCY="0.258265139116202" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Board.png" IRENDER="0" EMBEDDED="0" path="M0 0 L549.36 0 L549.36 352.532 L0 352.532 L0 0 Z" copath="M0 0 L549.36 0 L549.36 352.532 L0 352.532 L0 0 Z" gXpos="736.31914893617" gYpos="943.612832970345" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="736.232194504941" YPOS="1297.02127659574" OwnPage="2" ItemID="332109328" PTYPE="4" WIDTH="512.680851063829" HEIGHT="406.468085106382" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L512.681 0 L512.681 406.468 L0 406.468 L0 0 Z" copath="M0 0 L512.681 0 L512.681 406.468 L0 406.468 L0 0 Z" gXpos="736.232194504941" gYpos="1297.02127659574" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="3. Příprava hry"/>
+                <para PARENT="Heading 1"/>
+                <ITEXT CH="3.1 Základní"/>
+                <para PARENT="Heading 2"/>
+                <ITEXT CH="1."/>
+                <tab/>
+                <ITEXT CH="Umístěte desku s Velkou horou doprostřed stolu (bez květin na horách)."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="2."/>
+                <tab/>
+                <ITEXT CH="Do pytle vložte 3/4/5 "/>
+                <ITEXT FONT="Calibri Bold" CH="figurky věřících"/>
+                <ITEXT CH=" každé barvy pro hru s 2/3/4 hráči. Poté náhodně vyberte 3 figurky věřících na každého hráče z pytle a umístěte je na "/>
+                <ITEXT FONT="Calibri Bold" CH="Sanmon"/>
+                <ITEXT CH=" (vchodové dveře do chrámu)."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="3."/>
+                <tab/>
+                <ITEXT CH="Umístěte "/>
+                <ITEXT FONT="Calibri Bold" CH="Architekta"/>
+                <ITEXT CH=" vedle první úrovně pagody."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="4."/>
+                <tab/>
+                <ITEXT CH="Zamíchejte 6 žetonů úrovní pagody obrázkem dolů a náhodně vyberte 5, umístěte jeden na každé pole pro úroveň pagody. Zbývající žeton vraťte zpět do krabice."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="5."/>
+                <tab/>
+                <ITEXT CH="Umístěte žeton Sōrin nad pagodu na část, která ještě nebyla postavena. Zamíchejte čtyři žetony bodování Sōrin a náhodně vyberte jeden. Umístěte ho vedle žetonu Sōrin."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="6."/>
+                <tab/>
+                <ITEXT CH="Vezměte "/>
+                <ITEXT FONT="Calibri Bold" CH="žetony nákladů Jokoro"/>
+                <ITEXT CH=" a přidejte 0/3/1 "/>
+                <ITEXT FONT="Calibri Bold" CH="žeton(ů/y) zrušených nákladů Jokoro"/>
+                <ITEXT CH=" pro hru s 2/3/4 hráči. Zamíchejte je dohromady a položte je obrázkem dolů jako dobírací balíček na jednu stranu desky. Nepoužité "/>
+                <ITEXT FONT="Calibri Bold" CH="žetony zrušených nákladů Jokoro"/>
+                <ITEXT CH=" vraťte zpět do krabice. Umístěte 0/3/1 neutrální žetony Jokoro vedle desky pro hru s 2/3/4 hráči."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="7."/>
+                <tab/>
+                <ITEXT CH="Zamíchejte "/>
+                <ITEXT FONT="Calibri Bold" CH="žetony oltářů"/>
+                <ITEXT CH=" a položte je obrázkem dolů do hromady na straně desky. Náhodně vyberte 3 žetony a umístěte je na 3 místa pro stavbu oltářů."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="8."/>
+                <tab/>
+                <ITEXT CH="Zamíchejte žetony dekorace oltáře a položte je obrázkem dolů do hromady na straně desky. Umístěte tři žetony, vybrané náhodně, na pole dekorací. Pokud jsou všechny tři identické, vraťte je zpět do hromady, zamíchejte je a znovu vyberte tři nové."/>
+                <trail PARENT="Číslovaný seznam"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.001" YPOS="1823.78052755906" OwnPage="3" ItemID="332112160" PTYPE="4" WIDTH="513.616021276595" HEIGHT="449.5811745686" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L513.616 0 L513.616 449.581 L0 449.581 L0 0 Z" copath="M0 0 L513.616 0 L513.616 449.581 L0 449.581 L0 0 Z" gXpos="140.001" gYpos="1823.78052755906" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="9."/>
+                <tab/>
+                <ITEXT CH="Umístěte zdroje do dosahu všech hráčů (mince, kámen, dřevo a smaragdy)."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="10."/>
+                <tab/>
+                <ITEXT CH="Rozdělte "/>
+                <ITEXT FONT="Calibri Bold" CH="žetony meditace"/>
+                <ITEXT CH=" podle éry a zamíchejte každou hromadu, abyste vytvořili dva samostatné dobírací balíčky na straně desky. Vyberte 12 žetonů z hromady první éry a umístěte je na 12 prostranství hor."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="11."/>
+                <tab/>
+                <ITEXT CH="Umístěte "/>
+                <ITEXT FONT="Calibri Bold" CH="žetony Hikari"/>
+                <ITEXT CH=", jeden na každý z nejvyšších polí (ze čtyř dostupných polí) na každé hoře."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="12."/>
+                <tab/>
+                <ITEXT CH="Zamíchejte "/>
+                <ITEXT FONT="Calibri Bold" CH="počáteční žetony"/>
+                <ITEXT CH=" a vyberte stejný počet žetonů, kolik je hráčů, plus jeden další žeton, umístěte je obrázkem nahoru na stůl. Zbývající vraťte zpět do krabice."/>
+                <para PARENT="Číslovaný seznam"/>
+                <para PARENT="Heading 2"/>
+                <ITEXT CH="3.2 Příprava hráče"/>
+                <para PARENT="Heading 2"/>
+                <ITEXT CH="13."/>
+                <tab/>
+                <ITEXT CH="Jeden "/>
+                <ITEXT FONT="Calibri Bold" CH="žeton amuletu"/>
+                <ITEXT CH=", vybraný náhodně, který není odhalen ostatním hráčům. Ostatní žetony amuletů vraťte zpět do krabice."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="14."/>
+                <tab/>
+                <ITEXT CH="Každý hráč dostane tři "/>
+                <ITEXT FONT="Calibri Bold" CH="mnichy"/>
+                <ITEXT CH=", pět "/>
+                <ITEXT FONT="Calibri Bold" CH="kadidelnic Jokoro"/>
+                <ITEXT CH=" a dva "/>
+                <ITEXT FONT="Calibri Bold" CH="zvony"/>
+                <ITEXT CH=" odpovídající barvě hráče, které umístí na stůl před sebe jako svou osobní rezervu. Každý hráč umístí svou šestou kadidelnici Jokoro na odpovídajícího pole pro kadidelnice Jokoro na "/>
+                <ITEXT FONT="Calibri Bold" CH="stupnici obětí"/>
+                <ITEXT CH=" na desce."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="15."/>
+                <tab/>
+                <ITEXT CH="Tři žetony sekty umístěte do oblasti staveniště na desce."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="16."/>
+                <tab/>
+                <ITEXT CH="Jeden "/>
+                <ITEXT FONT="Calibri Bold" CH="ukazatel bodů Satori"/>
+                <ITEXT CH=" umístěte na pozici 5 na bodovací stupnici."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="17."/>
+                <tab/>
+                <ITEXT CH="Jeden ukazatel "/>
+                <ITEXT FONT="Calibri Bold" CH="ruky"/>
+                <ITEXT CH=" umístěte na střechu "/>
+                <ITEXT FONT="Calibri Bold" CH="modlitebních mlýnků"/>
+                <ITEXT CH="."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="18."/>
+                <tab/>
+                <ITEXT CH="Jeden "/>
+                <ITEXT FONT="Calibri Bold" CH="ukazatel stupnice obětí"/>
+                <ITEXT CH=" umístěte na první pole "/>
+                <ITEXT FONT="Calibri Bold" CH="stupnice obětí"/>
+                <ITEXT CH=" (pole u základny stupnice s ikonou)."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="19."/>
+                <tab/>
+                <ITEXT CH="Jeden ukazatel stupnice kadidla umístěte do pole 0 stupnice kadidla (u základny Velkého Jokora)."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="20."/>
+                <tab/>
+                <ITEXT CH="Náhodně zvolte začínajícího hráče a umístěte jeden z jeho zvonů na první pole "/>
+                <ITEXT FONT="Calibri Bold" CH="stupnice pořadí tahů"/>
+                <ITEXT CH=" na levé straně. Poté ostatní hráči umístí své zvony na stejnou stupnici."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="21."/>
+                <tab/>
+                <ITEXT CH="Začínající hráč a další hráči postupují ve stanoveném pořadí, každý hráč vybere jeden "/>
+                <ITEXT FONT="Calibri Bold" CH="počáteční žeton a obdrží uvedené zdroje a bonusy"/>
+                <ITEXT CH=". "/>
+                <ITEXT FONT="Calibri Bold" CH="Poté vrátí počáteční žetony zpět do krabice"/>
+                <ITEXT CH=". Následně "/>
+                <ITEXT FONT="Calibri Bold" CH="proti směru"/>
+                <ITEXT CH=" stanoveného pořadí, každý hráč umístí jednoho "/>
+                <ITEXT FONT="Calibri Bold" CH="mnicha na jakékoli dostupné místo na kterékoli z hor"/>
+                <ITEXT CH=". Nepoužitý počáteční žeton se vrátí zpět do krabice. Tímto způsobem začínající hráč jako první vybere počáteční žeton a jako poslední umístí mnicha."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="22."/>
+                <tab/>
+                <ITEXT CH="Umístěte žetony &quot;+40 SP&quot; vedle desky."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="Příklad 1"/>
+                <para PARENT="Příklad"/>
+                <ITEXT CH="Lara (modrá) vybere počáteční žeton s obrázkem 1 dřeva, 1 kamene a 1 kadidla. Vezme si tyto první dva zdroje z obecné rezervy a přesune ukazatel na stupnici kadidla na pole 1."/>
+                <trail PARENT="Příklad"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="141.95744680851" YPOS="2273.36170212766" OwnPage="3" ItemID="332114992" PTYPE="2" WIDTH="227.744680851063" HEIGHT="311.489361702127" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.21103615291472" LOCALSCY="0.21103615291472" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Example_1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L227.745 0 L227.745 311.489 L0 311.489 L0 0 Z" copath="M0 0 L227.745 0 L227.745 311.489 L0 311.489 L0 0 Z" gXpos="141.95744680851" gYpos="2273.36170212766" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="372.765957446808" YPOS="2274.3829787234" OwnPage="3" ItemID="332089504" PTYPE="4" WIDTH="281.872340425532" HEIGHT="161.366052772663" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L281.872 0 L281.872 161.366 L0 161.366 L0 0 Z" copath="M0 0 L281.872 0 L281.872 161.366 L0 161.366 L0 0 Z" gXpos="372.765957446808" gYpos="2274.3829787234" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="4. Průběh hry"/>
+                <para PARENT="Heading 1"/>
+                <ITEXT CH="Hra se skládá ze pěti kol. V každém kole začínající hráč a"/>
+                <nbspace/>
+                <ITEXT CH="následující hráči postupují ve stanoveném pořadí na stupnici pořadí tahů. Každý hráč provede tři tahy a kolo skončí."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT FONT="Calibri Bold" CH="Placení zdrojů"/>
+                <ITEXT CH=": Vždy, když je řečeno, že je třeba zaplatit zdroje, hráče je odevzdá z osobní rezervy do obecné rezervy. Pokud je řečeno, že se musí zaplatit kadidlo, provádí se to posunutím ukazatele na stupnici kadidla dolů o počet pozic odpovídající počtu kadidel, které je třeba zaplatit."/>
+                <para PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="544.868085106383" YPOS="2413.57580314961" OwnPage="3" ItemID="332117824" PTYPE="2" WIDTH="109.621276595745" HEIGHT="34.7135585525193" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.165302659773901" LOCALSCY="0.165302659773901" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Placeni.png" IRENDER="0" EMBEDDED="0" path="M0 0 L109.621 0 L109.621 34.7136 L0 34.7136 L0 0 Z" copath="M0 0 L109.621 0 L109.621 34.7136 L0 34.7136 L0 0 Z" gXpos="544.868085106383" gYpos="2413.57580314961" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="372.561702127659" YPOS="2450.63039035014" OwnPage="3" ItemID="332120656" PTYPE="4" WIDTH="282.689361702128" HEIGHT="64.1361702127656" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L282.689 0 L282.689 64.1362 L0 64.1362 L0 0 Z" copath="M0 0 L282.689 0 L282.689 64.1362 L0 64.1362 L0 0 Z" gXpos="372.561702127659" gYpos="2450.63039035014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Nejvyšší pozice na stupnici kadidla je 3. Pokud hráč získá více, přebytečná kadidla přijdou vniveč."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Zdroje ve hře jsou konečné. Pokud v nějakém okamžiku zdroj není k dispozici v obecné rezervě, hráči zdroj nezískají."/>
+                <para PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="374.604255319149" YPOS="2520.7884015748" OwnPage="3" ItemID="327834640" PTYPE="2" WIDTH="34.7234042553191" HEIGHT="38.5307473613648" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.170212765957447" LOCALSCY="0.170212765957447" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="BodSatori.png" IRENDER="0" EMBEDDED="0" path="M0 0 L34.7234 0 L34.7234 38.5307 L0 38.5307 L0 0 Z" copath="M0 0 L34.7234 0 L34.7234 38.5307 L0 38.5307 L0 0 Z" gXpos="374.604255319149" gYpos="2520.7884015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="414.229787234042" YPOS="2522.55319148936" OwnPage="3" ItemID="327823312" PTYPE="4" WIDTH="241.36176394706" HEIGHT="60.0510638297874" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L241.362 0 L241.362 60.0511 L0 60.0511 L0 0 Z" copath="M0 0 L241.362 0 L241.362 60.0511 L0 60.0511 L0 0 Z" gXpos="414.229787234042" gYpos="2522.55319148936" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Calibri Bold" CH="Body Satori:"/>
+                <ITEXT CH=" Posuňte svůj ukazatel bodů Satori na stupnici bodů pokaždé, když získáte body Satori (odtud dále označované jako SP)."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="735.319148936168" YPOS="1824.04255319148" OwnPage="4" ItemID="327837472" PTYPE="4" WIDTH="116.834042553193" HEIGHT="26.9191489361749" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.834 0 L116.834 26.9191 L0 26.9191 L0 0 Z" copath="M0 0 L116.834 0 L116.834 26.9191 L0 26.9191 L0 0 Z" gXpos="735.319148936168" gYpos="1824.04255319148" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="5. Tah hráče"/>
+                <trail PARENT="Heading 1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="735.319148936169" YPOS="1851.5744680851" OwnPage="4" ItemID="327840304" PTYPE="2" WIDTH="99.5744680851069" HEIGHT="46.9787234042567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.244680851063837" LOCALSCY="0.244680851063837" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_05_01.png" IRENDER="0" EMBEDDED="0" path="M0 0 L99.5745 0 L99.5745 46.9787 L0 46.9787 L0 0 Z" copath="M0 0 L99.5745 0 L99.5745 46.9787 L0 46.9787 L0 0 Z" gXpos="735.319148936169" gYpos="1851.5744680851" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="837.008874015748" YPOS="1851.64666929134" OwnPage="4" ItemID="327826144" PTYPE="4" WIDTH="413.03367917574" HEIGHT="46.9065221980209" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L413.034 0 L413.034 46.9065 L0 46.9065 L0 0 Z" copath="M0 0 L413.034 0 L413.034 46.9065 L0 46.9065 L0 0 Z" gXpos="837.008874015748" gYpos="1851.64666929134" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Během svého tahu "/>
+                <ITEXT FONT="Calibri Bold" CH="umístěte figurku věřícího"/>
+                <ITEXT CH=" na jeden z oltářů na hlavní desce, abyste získali zdroje a využili akce. "/>
+                <ITEXT FONT="Calibri Bold" CH="Navíc kdykoli během svého tahu (viz později)"/>
+                <ITEXT CH=" můžete utratit "/>
+                <ITEXT FONT="Calibri Bold" CH="jedno kadidlo"/>
+                <ITEXT CH=" pro využití další jednotlivé akce z modlitebních mlýnků."/>
+                <para PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="735.829787234042" YPOS="1902.12765957447" OwnPage="4" ItemID="327851632" PTYPE="4" WIDTH="514.723404255319" HEIGHT="91.4166475121483" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L514.723 0 L514.723 91.4166 L0 91.4166 L0 0 Z" copath="M0 0 L514.723 0 L514.723 91.4166 L0 91.4166 L0 0 Z" gXpos="735.829787234042" gYpos="1902.12765957447" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="5.1 Umístění věřících na oltář"/>
+                <para PARENT="Heading 2"/>
+                <ITEXT CH="Vyberte věřícího, který je k dispozici na Sanmonu (vchodové dveře do chrámu), a umístěte ho na jeden z oltářů, který je prázdný nebo obsazen jiným věřícím, na hlavní desce nebo na oltáři pro dobročinnost (viz později). "/>
+                <ITEXT FONT="Calibri Bold" CH="Počet věřících na jednom oltáři není omezen"/>
+                <ITEXT CH="."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Akce na hlavním oltáři na hlavní desce můžete využít v libovolném pořadí, s ohledem na následující:"/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="735.361702127659" YPOS="1995.61702127659" OwnPage="4" ItemID="327848800" PTYPE="4" WIDTH="252.255319148936" HEIGHT="157.744680851065" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252.255 0 L252.255 157.745 L0 157.745 L0 0 Z" copath="M0 0 L252.255 0 L252.255 157.745 L0 157.745 L0 0 Z" gXpos="735.361702127659" gYpos="1995.61702127659" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Pokud je barva věřícího odlišná od barvy oltáře (viz obrázek), využijte akce pouze na jedné straně oltáře, buď vlevo nebo vpravo. "/>
+                <ITEXT FONT="Calibri Bold" CH="Akce na vybrané straně využijte v libovolném pořadí"/>
+                <ITEXT CH=". Pokud je to možné, posuňte ukazatel stupnice obětí tohoto hráče o jedno políčko vpřed (viz stupnice obětí)."/>
+                <para PARENT="Běžný odstavec"/>
+                <para/>
+                <ITEXT CH="Příklad 2"/>
+                <para PARENT="Příklad"/>
+                <ITEXT CH="Lara umístí šedého věřícího na oranžový oltář. Musí si vybrat, zda využije akci z levé nebo pravé strany."/>
+                <trail PARENT="Příklad"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="997.361702127659" YPOS="1995.61702127659" OwnPage="4" ItemID="327843136" PTYPE="4" WIDTH="252.255319148936" HEIGHT="156.667443290337" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252.255 0 L252.255 156.667 L0 156.667 L0 0 Z" copath="M0 0 L252.255 0 L252.255 156.667 L0 156.667 L0 0 Z" gXpos="997.361702127659" gYpos="1995.61702127659" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Pokud se barva věřícího shoduje s barvou oltáře, "/>
+                <ITEXT FONT="Calibri Bold" CH="využijte co nejvíce akcí na obou stranách nebo na libovolné straně oltáře v libovolném pořad"/>
+                <ITEXT CH="í. Pokud je to možné, posuňte značku na stupnici obětí tohoto hráče o dvě políčka vpřed (viz stupnice obětí)."/>
+                <para PARENT="Běžný odstavec"/>
+                <para/>
+                <ITEXT CH="Příklad 3"/>
+                <para PARENT="Příklad"/>
+                <ITEXT CH="Gael umístí šedého věřícího na šedý oltář. Může využít akce na obou stranách oltáře v libovolném pořadí."/>
+                <trail PARENT="Příklad"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="735.191489361702" YPOS="2154.23404255319" OwnPage="4" ItemID="327845968" PTYPE="2" WIDTH="252.893617021276" HEIGHT="139.042553191489" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.202314893617021" LOCALSCY="0.202314893617021" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_05_02.png" IRENDER="0" EMBEDDED="0" path="M0 0 L252.894 0 L252.894 139.043 L0 139.043 L0 0 Z" copath="M0 0 L252.894 0 L252.894 139.043 L0 139.043 L0 0 Z" gXpos="735.191489361702" gYpos="2154.23404255319" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="997.191489361702" YPOS="2155.23404255319" OwnPage="4" ItemID="327854464" PTYPE="2" WIDTH="252.893617021276" HEIGHT="139.042553191489" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.202314893617021" LOCALSCY="0.202314893617021" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_05_03.png" IRENDER="0" EMBEDDED="0" path="M0 0 L252.894 0 L252.894 139.043 L0 139.043 L0 0 Z" copath="M0 0 L252.894 0 L252.894 139.043 L0 139.043 L0 0 Z" gXpos="997.191489361702" gYpos="2155.23404255319" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="735.31914893617" YPOS="2301.95744680851" OwnPage="4" ItemID="327828976" PTYPE="4" WIDTH="228.765957446808" HEIGHT="283.404255319148" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L228.766 0 L228.766 283.404 L0 283.404 L0 0 Z" copath="M0 0 L228.766 0 L228.766 283.404 L0 283.404 L0 0 Z" gXpos="735.31914893617" gYpos="2301.95744680851" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Stupnice obětí"/>
+                <para PARENT="Heading 3"/>
+                <ITEXT CH="Posuňte svůj ukazatel na stupnici obětí, když jakýkoli hráč, včetně vás samotného, umístí věřícího na kterýkoli z vašich oltářů obsazených kadidelnicí Jokoro:"/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="1."/>
+                <tab/>
+                <ITEXT CH="Pokud je barva věřícího "/>
+                <ITEXT FONT="Calibri Bold" CH="odlišná"/>
+                <ITEXT CH=" od barvy oltáře, posuňte se o "/>
+                <ITEXT FONT="Calibri Bold" CH="jedno pole"/>
+                <ITEXT CH=" na stupnici obětí."/>
+                <para PARENT="Číslovaný seznam"/>
+                <ITEXT CH="2."/>
+                <tab/>
+                <ITEXT CH="Pokud je barva věřícího "/>
+                <ITEXT FONT="Calibri Bold" CH="stejná"/>
+                <ITEXT CH=" jako barva oltáře, posuňte se o "/>
+                <ITEXT FONT="Calibri Bold" CH="dvě pole"/>
+                <ITEXT CH=" na stupnici obětí."/>
+                <para PARENT="Číslovaný seznam"/>
+                <para/>
+                <ITEXT CH="Příklad 4"/>
+                <para PARENT="Příklad"/>
+                <ITEXT CH="(1) Gael umístí věřícího stejné barvy na jeden z oltářů Lary (modrá). Gael využije akce na obou stranách oltáře a Lara (modrá) postoupí o dvě pole na stupnici obětí (2)."/>
+                <trail PARENT="Příklad"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="967.31914893617" YPOS="2364.53643307087" OwnPage="4" ItemID="327831808" PTYPE="2" WIDTH="283.914893617021" HEIGHT="160.070866141732" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.165838138794989" LOCALSCY="0.165838138794989" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_05_04.png" IRENDER="0" EMBEDDED="0" path="M0 0 L283.915 0 L283.915 160.071 L0 160.071 L0 0 Z" copath="M0 0 L283.915 0 L283.915 160.071 L0 160.071 L0 0 Z" gXpos="967.31914893617" gYpos="2364.53643307087" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="407.489361702127" YPOS="2705.70966141732" OwnPage="5" ItemID="327860128" PTYPE="2" WIDTH="245.127659574468" HEIGHT="231.481827944373" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.213525835866261" LOCALSCY="0.213525835866261" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_06_01.png" IRENDER="0" EMBEDDED="0" path="M0 0 L245.128 0 L245.128 231.482 L0 231.482 L0 0 Z" copath="M0 0 L245.128 0 L245.128 231.482 L0 231.482 L0 0 Z" gXpos="407.489361702127" gYpos="2705.70966141732" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140.595744680851" YPOS="2706.3829787234" OwnPage="5" ItemID="327871456" PTYPE="4" WIDTH="265.872340425531" HEIGHT="343.148936170212" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L265.872 0 L265.872 343.149 L0 343.149 L0 0 Z" copath="M0 0 L265.872 0 L265.872 343.149 L0 343.149 L0 0 Z" gXpos="140.595744680851" gYpos="2706.3829787234" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="5.2 Utratit jedno kadidlo na modlitební mlýnek"/>
+                <para PARENT="Heading 2"/>
+                <ITEXT FONT="Calibri Bold" CH="Kdykoli během svého tahu můžete maximálně jednou"/>
+                <ITEXT CH=" zaplatit jedno kadidlo, abyste využili dodatečnou akci z modlitebních mlýnků. Vezměte si ukazatel ruky odpovídající vaší barvě a umístěte ho na modlitební mlýnek podle vašeho výběru. Pokud je tento mlýnek již obsazen ukazatelem ruky jiného hráče, odeberte ukazatel ruky druhého hráče a umístěte ho na střechu modlitebních mlýnků. Hráč nemůže využít akci modlitebního mlýnku, když na začátku svého tahu je jeho vlastní ukazatel ruky již na modlitebním mlýnku."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Akce modlitebních mlýnků jsou dále vysvětleny v akcích oltářů."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Příklad"/>
+                <para PARENT="Příklad"/>
+                <ITEXT CH="Lara (modrá) chce provést akci získání dřeva na modlitebních mlýncích, ale nemůže to udělat, protože její ukazatel ruky je již umístěn na této akci. Místo toho se rozhodne získat kámen. Jelikož je tento modlitební mlýnek již obsazen, Lara odebere ukazatel ruky druhého hráče, aby ho mohla nahradit svým a získá kámen."/>
+                <trail PARENT="Příklad"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.021276595744" YPOS="3051.65957446808" OwnPage="5" ItemID="327879952" PTYPE="4" WIDTH="266.12145568772" HEIGHT="100" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L266.121 0 L266.121 100 L0 100 L0 0 Z" copath="M0 0 L266.121 0 L266.121 100 L0 100 L0 0 Z" gXpos="140.021276595744" gYpos="3051.65957446808" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="6. Akce oltářů"/>
+                <para PARENT="Heading 1"/>
+                <ITEXT CH="Některé z akcí na oltářích poskytují "/>
+                <ITEXT FONT="Calibri Bold" CH="zdroje"/>
+                <ITEXT CH=" rovnou, jiné vám umožňují využít "/>
+                <ITEXT FONT="Calibri Bold" CH="akce"/>
+                <ITEXT CH=" a další vám umožňují "/>
+                <ITEXT FONT="Calibri Bold" CH="vyměnit zdroje"/>
+                <ITEXT CH=" za jiné zdroje, akce nebo bonusy."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="6.1 Získání zdrojů"/>
+                <trail PARENT="Heading 2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.787234042553" YPOS="3151.72340425532" OwnPage="5" ItemID="327882784" PTYPE="2" WIDTH="54.4680851063829" HEIGHT="54.4680851063827" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.178583885594698" LOCALSCY="0.178583885594698" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_06_02.png" IRENDER="0" EMBEDDED="0" path="M0 0 L54.4681 0 L54.4681 54.4681 L0 54.4681 L0 0 Z" copath="M0 0 L54.4681 0 L54.4681 54.4681 L0 54.4681 L0 0 Z" gXpos="139.787234042553" gYpos="3151.72340425532" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="197.048244094488" YPOS="3160.23722047244" OwnPage="5" ItemID="327865792" PTYPE="4" WIDTH="204.377287820405" HEIGHT="34.0157480314965" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L204.377 0 L204.377 34.0157 L0 34.0157 L0 0 Z" copath="M0 0 L204.377 0 L204.377 34.0157 L0 34.0157 L0 0 Z" gXpos="197.048244094488" gYpos="3160.23722047244" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Calibri Bold" CH="Dřevo"/>
+                <ITEXT CH=": Získejte uvedený počet dřeva z"/>
+                <nbspace/>
+                <ITEXT CH="obecné rezervy."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.787234042553" YPOS="3208.72340425532" OwnPage="5" ItemID="327874288" PTYPE="2" WIDTH="54.4680851063829" HEIGHT="54.4680851063827" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.211938074343902" LOCALSCY="0.211938074343902" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_06_03.png" IRENDER="0" EMBEDDED="0" path="M0 0 L54.4681 0 L54.4681 54.4681 L0 54.4681 L0 0 Z" copath="M0 0 L54.4681 0 L54.4681 54.4681 L0 54.4681 L0 0 Z" gXpos="139.787234042553" gYpos="3208.72340425532" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="197.048244094488" YPOS="3217.23722047244" OwnPage="5" ItemID="327868624" PTYPE="4" WIDTH="204.377287820405" HEIGHT="34.0157480314965" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L204.377 0 L204.377 34.0157 L0 34.0157 L0 0 Z" copath="M0 0 L204.377 0 L204.377 34.0157 L0 34.0157 L0 0 Z" gXpos="197.048244094488" gYpos="3217.23722047244" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Calibri Bold" CH="Kámen"/>
+                <ITEXT CH=": Získejte uvedený počet kamene z"/>
+                <nbspace/>
+                <ITEXT CH="obecné rezervy."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.787234042553" YPOS="3264.55804992461" OwnPage="5" ItemID="327877120" PTYPE="2" WIDTH="54.4680851063829" HEIGHT="54.4680851063827" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.203239123531279" LOCALSCY="0.203239123531279" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_06_04.png" IRENDER="0" EMBEDDED="0" path="M0 0 L54.4681 0 L54.4681 54.4681 L0 54.4681 L0 0 Z" copath="M0 0 L54.4681 0 L54.4681 54.4681 L0 54.4681 L0 0 Z" gXpos="139.787234042553" gYpos="3264.55804992461" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="197.048244094488" YPOS="3273.07186614173" OwnPage="5" ItemID="327857296" PTYPE="4" WIDTH="204.377287820405" HEIGHT="34.0157480314965" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L204.377 0 L204.377 34.0157 L0 34.0157 L0 0 Z" copath="M0 0 L204.377 0 L204.377 34.0157 L0 34.0157 L0 0 Z" gXpos="197.048244094488" gYpos="3273.07186614173" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Calibri Bold" CH="Mince"/>
+                <ITEXT CH=": Získejte uvedený počet mincí z"/>
+                <nbspace/>
+                <ITEXT CH="obecné rezervy."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="408.787234042553" YPOS="3073.22734126319" OwnPage="5" ItemID="327885616" PTYPE="2" WIDTH="54.4680851063829" HEIGHT="54.4680851063827" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.181560283687942" LOCALSCY="0.181560283687942" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_06_05.png" IRENDER="0" EMBEDDED="0" path="M0 0 L54.4681 0 L54.4681 54.4681 L0 54.4681 L0 0 Z" copath="M0 0 L54.4681 0 L54.4681 54.4681 L0 54.4681 L0 0 Z" gXpos="408.787234042553" gYpos="3073.22734126319" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="466.285714285714" YPOS="3073.23722047244" OwnPage="5" ItemID="327862960" PTYPE="4" WIDTH="185.139817629179" HEIGHT="57.9968220807446" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L185.14 0 L185.14 57.9968 L0 57.9968 L0 0 Z" copath="M0 0 L185.14 0 L185.14 57.9968 L0 57.9968 L0 0 Z" gXpos="466.285714285714" gYpos="3073.23722047244" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Calibri Bold" CH="Kadidlo"/>
+                <ITEXT CH=": Posuňte ukazatel na stupnici kadidla o počet uvedených políček nahoru. Pokud už jste na nejvyšší úrovni, nedostanete další kadidlo."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.021276595744" YPOS="3323.65957446808" OwnPage="5" ItemID="420215856" PTYPE="4" WIDTH="223.042553191489" HEIGHT="74.6382978723432" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L223.043 0 L223.043 74.6383 L0 74.6383 L0 0 Z" copath="M0 0 L223.043 0 L223.043 74.6383 L0 74.6383 L0 0 Z" gXpos="140.021276595744" gYpos="3323.65957446808" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="6.2 Výměna zdrojů"/>
+                <para PARENT="Heading 2"/>
+                <ITEXT CH="Hráč musí zaplatit zdroje uvedené vlevo a tím získá zdroj, akci nebo bonus na pravé straně."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.574468085106" YPOS="3395.85139370079" OwnPage="5" ItemID="420190368" PTYPE="2" WIDTH="199.04070514324" HEIGHT="64.7017977885703" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.306643591415025" LOCALSCY="0.306643591415025" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_06_08.png" IRENDER="0" EMBEDDED="0" path="M0 0 L199.041 0 L199.041 64.7018 L0 64.7018 L0 0 Z" copath="M0 0 L199.041 0 L199.041 64.7018 L0 64.7018 L0 0 Z" gXpos="140.574468085106" gYpos="3395.85139370079" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="408.787234042553" YPOS="3133.22734126319" OwnPage="5" ItemID="420218688" PTYPE="2" WIDTH="54.4680851063829" HEIGHT="54.4680851063827" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.223229856993373" LOCALSCY="0.223229856993373" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_06_06.png" IRENDER="0" EMBEDDED="0" path="M0 0 L54.4681 0 L54.4681 54.4681 L0 54.4681 L0 0 Z" copath="M0 0 L54.4681 0 L54.4681 54.4681 L0 54.4681 L0 0 Z" gXpos="408.787234042553" gYpos="3133.22734126319" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="466.285714285714" YPOS="3144.57580314961" OwnPage="5" ItemID="420198864" PTYPE="4" WIDTH="185.139817629179" HEIGHT="30.6776731445766" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L185.14 0 L185.14 30.6777 L0 30.6777 L0 0 Z" copath="M0 0 L185.14 0 L185.14 30.6777 L0 30.6777 L0 0 Z" gXpos="466.285714285714" gYpos="3144.5758031496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Calibri Bold" CH="Smaragdy"/>
+                <ITEXT CH=": Získejte uvedený počet smaragdů z obecné rezervy."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="404.142732283465" YPOS="3261.72340425532" OwnPage="5" ItemID="420193200" PTYPE="2" WIDTH="249.448818897638" HEIGHT="120.468085106383" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.12992125984252" LOCALSCY="0.12992125984252" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_06_07.png" IRENDER="0" EMBEDDED="0" path="M0 0 L249.449 0 L249.449 120.468 L0 120.468 L0 0 Z" copath="M0 0 L249.449 0 L249.449 120.468 L0 120.468 L0 0 Z" gXpos="404.142732283465" gYpos="3261.72340425532" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="402.382978723404" YPOS="3385.02127659574" OwnPage="5" ItemID="420221520" PTYPE="4" WIDTH="251.744680851064" HEIGHT="66.8936170212764" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L251.745 0 L251.745 66.8936 L0 66.8936 L0 0 Z" copath="M0 0 L251.745 0 L251.745 66.8936 L0 66.8936 L0 0 Z" gXpos="402.382978723404" gYpos="3385.02127659574" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Příklad:"/>
+                <para PARENT="Příklad"/>
+                <ITEXT CH="Pro získání 1 smaragdu na tomto oltáři musí Lara utratit 1"/>
+                <nbspace/>
+                <ITEXT CH="minci a další 2 zdroje, volit mezi dřevem a kamenem, v"/>
+                <nbspace/>
+                <ITEXT CH="libovolné kombinaci."/>
+                <trail PARENT="Příklad"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="961.733283464567" YPOS="2706.74468085106" OwnPage="6" ItemID="420196032" PTYPE="2" WIDTH="287.841184620538" HEIGHT="197.035846707997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.152944306387108" LOCALSCY="0.152944306387108" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_07_02.png" IRENDER="0" EMBEDDED="0" path="M0 0 L287.841 0 L287.841 197.036 L0 197.036 L0 0 Z" copath="M0 0 L287.841 0 L287.841 197.036 L0 197.036 L0 0 Z" gXpos="961.733283464567" gYpos="2706.74468085106" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="735.31914893617" YPOS="2705.70212765957" OwnPage="6" ItemID="420224352" PTYPE="4" WIDTH="194.723404255319" HEIGHT="27.9996597420045" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L194.723 0 L194.723 27.9997 L0 27.9997 L0 0 Z" copath="M0 0 L194.723 0 L194.723 27.9997 L0 27.9997 L0 0 Z" gXpos="735.31914893617" gYpos="2705.70212765957" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="6.3 Akce"/>
+                <trail PARENT="Heading 2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="735.630921259842" YPOS="2734.74468085106" OwnPage="6" ItemID="420227184" PTYPE="2" WIDTH="54.6031212933483" HEIGHT="51.744680851064" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.156905520957897" LOCALSCY="0.156905520957897" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_07_01.png" IRENDER="0" EMBEDDED="0" path="M0 0 L54.6031 0 L54.6031 51.7447 L0 51.7447 L0 0 Z" copath="M0 0 L54.6031 0 L54.6031 51.7447 L0 51.7447 L0 0 Z" gXpos="735.630921259842" gYpos="2734.74468085106" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="790.468085106382" YPOS="2751.31914893617" OwnPage="6" ItemID="420201696" PTYPE="4" WIDTH="139.574468085106" HEIGHT="21.4468085106382" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L139.574 0 L139.574 21.4468 L0 21.4468 L0 0 Z" copath="M0 0 L139.574 0 L139.574 21.4468 L0 21.4468 L0 0 Z" gXpos="790.468085106382" gYpos="2751.31914893617" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Postavte nový oltář"/>
+                <trail PARENT="Heading 3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="736.680851063829" YPOS="2786.72340425532" OwnPage="6" ItemID="420230016" PTYPE="4" WIDTH="222.63829787234" HEIGHT="217.872340425532" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L222.638 0 L222.638 217.872 L0 217.872 L0 0 Z" copath="M0 0 L222.638 0 L222.638 217.872 L0 217.872 L0 0 Z" gXpos="736.680851063829" gYpos="2786.72340425532" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Vyberte jeden z oltářů dostupných v "/>
+                <ITEXT FONT="Calibri Bold" CH="oblasti staveniště"/>
+                <ITEXT CH=" na desce a "/>
+                <ITEXT FONT="Calibri Bold" CH="zaplaťte náklady uvedené vlevo"/>
+                <ITEXT CH=" (2 mince, 2 dřeva nebo 2 kameny) "/>
+                <ITEXT FONT="Calibri Bold" CH="plus počet žetonů meditace, pokud to je potřeba"/>
+                <ITEXT CH=" (0/1/2 žetonů meditace na stavbu prvního, druhého nebo třetího oltáře)."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Poté "/>
+                <ITEXT FONT="Calibri Bold" CH="umístěte oltář na jedno z dostupných míst pro nový oltář nebo nahraďte základní oltář"/>
+                <ITEXT CH=" vytištěný na desce (pokud není zvýrazněn žlutě). Poté si "/>
+                <ITEXT FONT="Calibri Bold" CH="vyberte jeden z dostupných žetonů dekorace oltáře"/>
+                <ITEXT CH=" na desce a umístěte ji do přiděleného pole oltáře, kterou jste právě postavili. "/>
+                <ITEXT FONT="Calibri Bold" CH="Umístěte jeden ze svých žetonů sekty"/>
+                <ITEXT CH=" na střechu oltáře, který jste právě postavili."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="969.531914893616" YPOS="2905.1914893617" OwnPage="6" ItemID="420213024" PTYPE="4" WIDTH="279.829787234042" HEIGHT="145.990613000507" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L279.83 0 L279.83 145.991 L0 145.991 L0 0 Z" copath="M0 0 L279.83 0 L279.83 145.991 L0 145.991 L0 0 Z" gXpos="969.531914893616" gYpos="2905.1914893617" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Příklad"/>
+                <para PARENT="Příklad"/>
+                <ITEXT CH="Gael staví oranžový oltář na základní oranžový oltář vytištěný na herním plánu (1). Zaplatí jeho cenu (2 dřeva) a umístí žeton dekorace oltáře (2). Poté na oltář umístí svůj žeton sekty a protože je to jeho druhý oltář, odhodí z osobní rezervy žeton meditace (3). Navíc musí zaplatit 1 kadidlo, protože staví oltář na základní oltář na plánu (3). Nyní může Gael provést akce na levé nebo pravé straně oltáře podle své volby. Zvolí si pravou stranu a získá 1 kadidlo. (Nezapomeňte, že nový oltář a základní oltář musí být stejné barvy)."/>
+                <trail PARENT="Příklad"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="735.630921259842" YPOS="3087.74468085106" OwnPage="6" ItemID="420204528" PTYPE="2" WIDTH="54.6031212933483" HEIGHT="51.744680851064" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.219257122250271" LOCALSCY="0.219257122250271" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_07_03.png" IRENDER="0" EMBEDDED="0" path="M0 0 L54.6031 0 L54.6031 51.7447 L0 51.7447 L0 0 Z" copath="M0 0 L54.6031 0 L54.6031 51.7447 L0 51.7447 L0 0 Z" gXpos="735.630921259842" gYpos="3087.74468085106" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="791.654543307087" YPOS="3079.72826269056" OwnPage="6" ItemID="420210192" PTYPE="4" WIDTH="422.026307756741" HEIGHT="73.7659574468084" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L422.026 0 L422.026 73.766 L0 73.766 L0 0 Z" copath="M0 0 L422.026 0 L422.026 73.766 L0 73.766 L0 0 Z" gXpos="791.654543307087" gYpos="3079.72826269056" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Pokud chcete nahradit základní oltář, musíte zaplatit dodatečnou cenu jednoho kadidla. "/>
+                <ITEXT FONT="Calibri Bold" CH="Můžete nahradit základní oltář pouze oltářem stejné barvy"/>
+                <ITEXT CH="."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Počet dostupných polí pro oltáře závisí na počtu hráčů."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Během hry můžete postavit maximálně tři oltáře na osobu."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="734.851063829787" YPOS="3166.29787234042" OwnPage="6" ItemID="420232848" PTYPE="4" WIDTH="226.510638297872" HEIGHT="36.4255319148938" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226.511 0 L226.511 36.4255 L0 36.4255 L0 0 Z" copath="M0 0 L226.511 0 L226.511 36.4255 L0 36.4255 L0 0 Z" gXpos="734.851063829787" gYpos="3166.29787234042" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Pole s touto ikonou jsou k dispozici pouze pro hry se 3 až 4 hráči."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="965.465566929134" YPOS="3158.74468085106" OwnPage="6" ItemID="420207360" PTYPE="2" WIDTH="54.6031212933483" HEIGHT="51.744680851064" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.289076429335553" LOCALSCY="0.289076429335553" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_07_04.png" IRENDER="0" EMBEDDED="0" path="M0 0 L54.6031 0 L54.6031 51.7447 L0 51.7447 L0 0 Z" copath="M0 0 L54.6031 0 L54.6031 51.7447 L0 51.7447 L0 0 Z" gXpos="965.465566929133" gYpos="3158.74468085106" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="735.630921259842" YPOS="3219.74468085106" OwnPage="6" ItemID="420244176" PTYPE="2" WIDTH="54.6031212933483" HEIGHT="51.744680851064" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.289076429335553" LOCALSCY="0.289076429335553" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_07_05.png" IRENDER="0" EMBEDDED="0" path="M0 0 L54.6031 0 L54.6031 51.7447 L0 51.7447 L0 0 Z" copath="M0 0 L54.6031 0 L54.6031 51.7447 L0 51.7447 L0 0 Z" gXpos="735.630921259842" gYpos="3219.74468085106" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="791.851063829787" YPOS="3228.29787234042" OwnPage="6" ItemID="420238512" PTYPE="4" WIDTH="226.510638297872" HEIGHT="36.4255319148938" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226.511 0 L226.511 36.4255 L0 36.4255 L0 0 Z" copath="M0 0 L226.511 0 L226.511 36.4255 L0 36.4255 L0 0 Z" gXpos="791.851063829787" gYpos="3228.29787234042" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Pole s touto ikonou jsou k dispozici pouze pro hry se 4 hráči."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="735.851063829787" YPOS="3284.29787234042" OwnPage="6" ItemID="420241344" PTYPE="4" WIDTH="281.340425531915" HEIGHT="49.8297872340431" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L281.34 0 L281.34 49.8298 L0 49.8298 L0 0 Z" copath="M0 0 L281.34 0 L281.34 49.8298 L0 49.8298 L0 0 Z" gXpos="735.851063829787" gYpos="3284.29787234042" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Jakmile je oltář postaven, můžete použít akce na libovolné straně (na pravé nebo na levé straně) právě postaveného oltáře."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1141.48936170213" YPOS="3367.31596062992" OwnPage="6" ItemID="420235680" PTYPE="2" WIDTH="100" HEIGHT="100" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24330900243309" LOCALSCY="0.24330900243309" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_07_07.png" IRENDER="0" EMBEDDED="0" path="M0 0 L100 0 L100 100 L0 100 L0 0 Z" copath="M0 0 L100 0 L100 100 L0 100 L0 0 Z" gXpos="1141.48936170213" gYpos="3367.31596062992" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="989.95744680851" YPOS="3316.83564566929" OwnPage="6" ItemID="420247008" PTYPE="2" WIDTH="150.787234042553" HEIGHT="151.696269224321" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.271370785732238" LOCALSCY="0.271370785732238" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_07_06.png" IRENDER="0" EMBEDDED="0" path="M0 0 L150.787 0 L150.787 151.696 L0 151.696 L0 0 Z" copath="M0 0 L150.787 0 L150.787 151.696 L0 151.696 L0 0 Z" gXpos="989.95744680851" gYpos="3316.83564566929" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140.79996130005" YPOS="3588.23404255319" OwnPage="7" ItemID="335864208" PTYPE="2" WIDTH="56.1702127659574" HEIGHT="55.3811306751581" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.161933130629117" LOCALSCY="0.161933130629117" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_08_01.png" IRENDER="0" EMBEDDED="0" path="M0 0 L56.1702 0 L56.1702 55.3811 L0 55.3811 L0 0 Z" copath="M0 0 L56.1702 0 L56.1702 55.3811 L0 55.3811 L0 0 Z" gXpos="140.79996130005" gYpos="3588.23404255319" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="197.88288976378" YPOS="3588.3829787234" OwnPage="7" ItemID="335867040" PTYPE="4" WIDTH="169.491539621377" HEIGHT="55.5550291506142" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L169.492 0 L169.492 55.555 L0 55.555 L0 0 Z" copath="M0 0 L169.492 0 L169.492 55.555 L0 55.555 L0 0 Z" gXpos="197.88288976378" gYpos="3588.3829787234" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Umístění kadidelnice Jokoro"/>
+                <para PARENT="Heading 3"/>
+                <ITEXT CH="Umístěte Jokoro na jeden z "/>
+                <ITEXT FONT="Calibri Bold" CH="vašich oltářů nebo na pagodu"/>
+                <ITEXT CH="."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="142.901485843525" YPOS="3751.1975205227" OwnPage="7" ItemID="335875536" PTYPE="2" WIDTH="255.340425531915" HEIGHT="165.957446808511" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.153081789887239" LOCALSCY="0.153081789887239" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_08_02.png" IRENDER="0" EMBEDDED="0" path="M0 0 L255.34 0 L255.34 165.957 L0 165.957 L0 0 Z" copath="M0 0 L255.34 0 L255.34 165.957 L0 165.957 L0 0 Z" gXpos="142.901485843525" gYpos="3751.1975205227" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="403.253638632937" YPOS="3731.83095995979" OwnPage="7" ItemID="335869872" PTYPE="2" WIDTH="252.936170212766" HEIGHT="185.595744680851" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.151878678134903" LOCALSCY="0.151878678134903" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_08_03.png" IRENDER="0" EMBEDDED="0" path="M0 0 L252.936 0 L252.936 185.596 L0 185.596 L0 0 Z" copath="M0 0 L252.936 0 L252.936 185.596 L0 185.596 L0 0 Z" gXpos="403.253638632937" gYpos="3731.83095995979" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="141.16166342771" YPOS="3644.93617021277" OwnPage="7" ItemID="335878368" PTYPE="4" WIDTH="247.659574468085" HEIGHT="102.63829787234" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L247.66 0 L247.66 102.638 L0 102.638 L0 0 Z" copath="M0 0 L247.66 0 L247.66 102.638 L0 102.638 L0 0 Z" gXpos="141.16166342771" gYpos="3644.93617021277" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Umístěte Jokoro na jeden z vašich oltářů."/>
+                <para PARENT="Heading 4"/>
+                <ITEXT CH="Chcete-li umístit Jokoro na jeden z vašich oltářů, zaplaťte uvedenou cenu a poté ji umístěte na přidělené pole oltáře."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Příklad:"/>
+                <para PARENT="Příklad"/>
+                <ITEXT CH="Gael zaplatí 1 minci a umístí Jokoro na jeho oltář."/>
+                <trail PARENT="Příklad"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="402.097833640476" YPOS="3606.94404422851" OwnPage="7" ItemID="335858544" PTYPE="4" WIDTH="252.914893617021" HEIGHT="125.468085106383" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252.915 0 L252.915 125.468 L0 125.468 L0 0 Z" copath="M0 0 L252.915 0 L252.915 125.468 L0 125.468 L0 0 Z" gXpos="402.097833640476" gYpos="3606.94404422852" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Umístěte Jokoro na pagodu"/>
+                <para PARENT="Heading 4"/>
+                <ITEXT CH="Chcete-li umístit Jokoro na pagodě, zaplaťte uvedenou cenu a poté ji umístěte na prázdné místo na žetonu nákladů na Jokoro na úrovni pagody (žeton úrovně pagody musí být již postaven, viz později)."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Příklad:"/>
+                <para PARENT="Příklad"/>
+                <ITEXT CH="Gael platí 1 kámen a 1 kadidlo za umístění Jokora na pagodě."/>
+                <trail PARENT="Příklad"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="142.182940023454" YPOS="3922.21276595745" OwnPage="7" ItemID="335872704" PTYPE="4" WIDTH="511.148936170213" HEIGHT="33.1914893617018" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L511.149 0 L511.149 33.1915 L0 33.1915 L0 0 Z" copath="M0 0 L511.149 0 L511.149 33.1915 L0 33.1915 L0 0 Z" gXpos="142.182940023454" gYpos="3922.21276595745" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Calibri Bold" CH="Jokorové na pagodě se používají k bodování na konci hry, stejně jako Jokorové na oltářích, které vám navíc umožňují postoupit na stupnici obětí"/>
+                <ITEXT CH=". Pro další podrobnosti se podívejte na sekci &quot;Konec hry&quot;."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.79996130005" YPOS="3965.23404255319" OwnPage="7" ItemID="335884032" PTYPE="2" WIDTH="75.4215111408947" HEIGHT="71.5319148936164" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.198477660897091" LOCALSCY="0.198477660897091" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_08_04.png" IRENDER="0" EMBEDDED="0" path="M0 0 L75.4215 0 L75.4215 71.5319 L0 71.5319 L0 0 Z" copath="M0 0 L75.4215 0 L75.4215 71.5319 L0 71.5319 L0 0 Z" gXpos="140.79996130005" gYpos="3965.23404255319" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="216.725409448819" YPOS="3965.12765957447" OwnPage="7" ItemID="335861376" PTYPE="4" WIDTH="437.457530574635" HEIGHT="72.3191489361698" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L437.458 0 L437.458 72.3191 L0 72.3191 L0 0 Z" copath="M0 0 L437.458 0 L437.458 72.3191 L0 72.3191 L0 0 Z" gXpos="216.725409448819" gYpos="3965.12765957447" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Stavba na pagodě"/>
+                <para PARENT="Heading 3"/>
+                <ITEXT CH="Můžete přispět k postavení pagody tím, že postavíte úroveň nebo střechu. V rámci jedné akce můžete postavit pouze jednu položku. Není dovoleno stavět nad úrovní, kde se nachází Architekt, pouze na jeho úrovni nebo níže."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.140386831965" YPOS="4042.89361702128" OwnPage="7" ItemID="335909520" PTYPE="4" WIDTH="514.042553191489" HEIGHT="196.765957446808" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L514.043 0 L514.043 196.766 L0 196.766 L0 0 Z" copath="M0 0 L514.043 0 L514.043 196.766 L0 196.766 L0 0 Z" gXpos="140.140386831965" gYpos="4042.89361702128" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Stavba úrovně"/>
+                <para PARENT="Heading 4"/>
+                <ITEXT CH="Zaplaťte uvedenou cenu na žeton úrovně pagody a získejte odpovídající body Satori. Poté otočte žeton úrovně pagody, vezměte žeton nákladů na Jokora z balíčku a umístěte jej na postavenou úroveň. Každý z těchto žetonů má pro hry pro 3 a 4 hráče dvě místa pro stavbu Jokorů. V hrách pro 2 hráče nebo ve variantě pro jednoho hráče je k dispozici pouze jedno místo pro Jokory na těchto žetonech."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Pokud je vytažen žeton zrušených nákladů Jokoro (což je možné pouze ve hrách pro 3 a 4 hráče), vezměte nový žeton nákladů Jokoro a umístěte na jedno z dostupných míst na novém žetonu."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Pokud je při odhalení nového žetonu nákladů Jokoro odhalen další žeton zrušených nákladu Jokora, umístěte jej na úroveň se dvěma žetony neutrálních Jokoro."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Místa s žetony neutrálních Jokoro nejsou k dispozici pro hráče k umístění svých Jokorů."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="735.021276595744" YPOS="3587.65957446808" OwnPage="8" ItemID="335912352" PTYPE="2" WIDTH="516.382978723404" HEIGHT="214.212765957447" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.134334801957181" LOCALSCY="0.134334801957181" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_09_01.png" IRENDER="0" EMBEDDED="0" path="M0 0 L516.383 0 L516.383 214.213 L0 214.213 L0 0 Z" copath="M0 0 L516.383 0 L516.383 214.213 L0 214.213 L0 0 Z" gXpos="735.021276595744" gYpos="3587.65957446808" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="735.31914893617" YPOS="3805.51281102362" OwnPage="8" ItemID="335886864" PTYPE="4" WIDTH="514.042553191489" HEIGHT="61.721231529566" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L514.043 0 L514.043 61.7212 L0 61.7212 L0 0 Z" copath="M0 0 L514.043 0 L514.043 61.7212 L0 61.7212 L0 0 Z" gXpos="735.31914893617" gYpos="3805.51281102362" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Příklad:"/>
+                <para PARENT="Příklad"/>
+                <ITEXT CH="(1) Lara postaví první úroveň pagody, zaplatí 1 smaragd, 1 kámen a 1 dřevo a získá 5 bodů Satori. Poté otočí žeton úrovně pagody a vezme z balíčku žeton nákladů Jokoro. (2) Pokud je to žeton zrušených nákladů Jokoro, vezme nový žeton (3) a umístí jej na úroveň pagody. Umístí žeton neutrálního Jokora na jedno z dostupných polí."/>
+                <trail PARENT="Příklad"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="736" YPOS="3887.71753543307" OwnPage="8" ItemID="335915184" PTYPE="4" WIDTH="250.553191489362" HEIGHT="196.329363209921" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L250.553 0 L250.553 196.329 L0 196.329 L0 0 Z" copath="M0 0 L250.553 0 L250.553 196.329 L0 196.329 L0 0 Z" gXpos="736" gYpos="3887.71753543307" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Stavba střechy"/>
+                <para PARENT="Heading 4"/>
+                <ITEXT CH="Zaplaťte náklady uvedené na poli pro střechu pagody vytištěném na desce a získejte odpovídající body Satori. Nyní umístěte jeden ze svých žetonů meditace z vaší osobní rezervy na pole pro střechu pagody. Nemůžete postavit střechu, pokud nemáte žádný žeton meditace ve své rezervě."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Příklad:"/>
+                <para PARENT="Příklad"/>
+                <ITEXT CH="Gael postaví střechu na třetí úrovni pagody, zaplatí 3 mince a získá 3 body Satori. Poté umístí jeden ze svých "/>
+                <ITEXT FONT="Calibri Bold Italic" CH="žetonů meditace z jeho osobní rezervy"/>
+                <ITEXT CH=" na odpovídající pole pro střechu pagody."/>
+                <trail PARENT="Příklad"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1000" YPOS="3887.71753543307" OwnPage="8" ItemID="335898192" PTYPE="4" WIDTH="250.553191489362" HEIGHT="210.744680851064" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L250.553 0 L250.553 210.745 L0 210.745 L0 0 Z" copath="M0 0 L250.553 0 L250.553 210.745 L0 210.745 L0 0 Z" gXpos="1000" gYpos="3887.71753543307" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Stavba Sōrin"/>
+                <para PARENT="Heading 4"/>
+                <ITEXT CH="Ve pátém kole je možné postavit "/>
+                <ITEXT FONT="Calibri Bold" CH="Sōrin"/>
+                <ITEXT CH=". "/>
+                <ITEXT FONT="Calibri Bold" CH="Stavební náklady pro Sōrin jsou 1 mince, 1 dřevo, 1 kámen, 1"/>
+                <nbspace FONT="Calibri Bold"/>
+                <ITEXT FONT="Calibri Bold" CH="kadidlo a musíte zahodit jeden žeton meditace z vaší osobní rezervy"/>
+                <ITEXT CH=". Zaplaťte náklady a otočte žeton Sōrin. Poté si vezměte "/>
+                <ITEXT FONT="Calibri Bold" CH="žeton bodů Sōrin"/>
+                <ITEXT CH=", který se bude počítat do vašich bodů na konci hry. Umístěte žeton nákladů Jokoro nad Sōrin stejným způsobem jako při stavbě úrovně pagody."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Příklad:"/>
+                <para PARENT="Příklad"/>
+                <ITEXT CH="Lara postaví Sōrin, zaplatí jeho náklady a zahodí jeden žeton meditace. Poté vezme žeton bodů Sōrin a umístí jej na svou herní plochu pro závěrečné bodování."/>
+                <trail PARENT="Příklad"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="734.170212765957" YPOS="4092.0167480315" OwnPage="8" ItemID="335889696" PTYPE="2" WIDTH="257.829787234042" HEIGHT="170.366230691904" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.134707307854777" LOCALSCY="0.134707307854777" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_09_02.png" IRENDER="0" EMBEDDED="0" path="M0 0 L257.83 0 L257.83 170.366 L0 170.366 L0 0 Z" copath="M0 0 L257.83 0 L257.83 170.366 L0 170.366 L0 0 Z" gXpos="734.170212765957" gYpos="4092.0167480315" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="997.914893617021" YPOS="4104.69391338583" OwnPage="8" ItemID="335918016" PTYPE="2" WIDTH="251.952248115263" HEIGHT="141.455022784383" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.181914980588637" LOCALSCY="0.181914980588637" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_09_03.png" IRENDER="0" EMBEDDED="0" path="M0 0 L251.952 0 L251.952 141.455 L0 141.455 L0 0 Z" copath="M0 0 L251.952 0 L251.952 141.455 L0 141.455 L0 0 Z" gXpos="997.914893617021" gYpos="4104.69391338583" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="139.79996130005" YPOS="4470.12380633272" OwnPage="9" ItemID="335920848" PTYPE="2" WIDTH="75.4215111408947" HEIGHT="71.5319148936164" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.221177452026084" LOCALSCY="0.221177452026084" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_10_01.png" IRENDER="0" EMBEDDED="0" path="M0 0 L75.4215 0 L75.4215 71.5319 L0 71.5319 L0 0 Z" copath="M0 0 L75.4215 0 L75.4215 71.5319 L0 71.5319 L0 0 Z" gXpos="139.79996130005" gYpos="3588.23404255319" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="214.183543139554" YPOS="4469.82978723404" OwnPage="9" ItemID="335895360" PTYPE="4" WIDTH="439.531914893617" HEIGHT="72.1276595744685" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L439.532 0 L439.532 72.1277 L0 72.1277 L0 0 Z" copath="M0 0 L439.532 0 L439.532 72.1277 L0 72.1277 L0 0 Z" gXpos="214.183543139554" gYpos="4469.82978723404" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Meditace"/>
+                <para PARENT="Heading 3"/>
+                <ITEXT CH="Umístěte jednoho ze svých dostupných mnichů na prázdné pole v horách, tedy pole, které není obsazeno jiným mnichem nebo žetonem Hikari. Pokud nemáte k dispozici žádné mnichy, můžete přesunout jednoho, kterého jste již umístili v horách, na jiné volné pole v kterékoli z hor."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.79996130005" YPOS="4572.47026302563" OwnPage="9" ItemID="435287024" PTYPE="2" WIDTH="75.4215111408947" HEIGHT="71.5319148936164" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.223537234042551" LOCALSCY="0.223537234042551" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_10_02.png" IRENDER="0" EMBEDDED="0" path="M0 0 L75.4215 0 L75.4215 71.5319 L0 71.5319 L0 0 Z" copath="M0 0 L75.4215 0 L75.4215 71.5319 L0 71.5319 L0 0 Z" gXpos="139.79996130005" gYpos="3690.5804992461" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="214.183543139554" YPOS="4560.83766124979" OwnPage="9" ItemID="435272864" PTYPE="4" WIDTH="439.531914893617" HEIGHT="93.4468085106382" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L439.532 0 L439.532 93.4468 L0 93.4468 L0 0 Z" copath="M0 0 L439.532 0 L439.532 93.4468 L0 93.4468 L0 0 Z" gXpos="214.183543139554" gYpos="4560.83766124979" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Hikari"/>
+                <para PARENT="Heading 3"/>
+                <ITEXT CH="Přesuňte světlo, aby osvítilo mnichy a oni dosáhli Satori."/>
+                <para PARENT="Zvláštní odstavec"/>
+                <ITEXT CH="Každá ikona Hikari vám "/>
+                <ITEXT FONT="Calibri Bold" CH="umožňuje posunout žeton Hikari o jedno pole"/>
+                <ITEXT CH=" ve "/>
+                <ITEXT FONT="Calibri Bold" CH="směru (nebo proti směru) hodinových ručiček"/>
+                <ITEXT CH=" v jedné z hor podle vašeho výběru. Nemůžete dokončit svůj tah, pokud je žeton Hikari na mnichovi jiného hráče."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.686039370079" YPOS="4661.89076377953" OwnPage="9" ItemID="435275696" PTYPE="4" WIDTH="514.710269726922" HEIGHT="124.724409448819" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L514.71 0 L514.71 124.724 L0 124.724 L0 0 Z" copath="M0 0 L514.71 0 L514.71 124.724 L0 124.724 L0 0 Z" gXpos="139.686039370079" gYpos="4661.89076377953" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Když je Hikari nad jedním z vašich mnichů, vezměte odpovídající žeton meditace a umístěte ho na svou herní plochu. Poté můžete použít žeton meditace. Můžete použít všechny nebo část z nich, v libovolném pořadí, podle svého výběru nebo dokonce zvolit, že nepoužijete žádnou z akcí nebo efektů. Pokud ve svém tahu získáte více než jeden žeton meditace, použijte akce a efekty na žetonu v libovolném pořadí, které si vyberete, ale musíte použít první žeton před použitím jakékoli dalšího. První žeton otočte, aby naznačil, že byla použit, a poté použijte další žetony v pořadí, jak jste je dostali."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Po použití žetonu meditace umístěte osvíceného mnicha na slunce vytištěné na desce, abyste naznačili, že byl osvícen. Žeton Hikari zůstává na místě, kde byl mnich osvícen."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.284464566929" YPOS="4794.15848031497" OwnPage="9" ItemID="435267200" PTYPE="2" WIDTH="513.430993466242" HEIGHT="318.44094488189" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.129785387630496" LOCALSCY="0.129785387630496" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_10_03.png" IRENDER="0" EMBEDDED="0" path="M0 0 L513.431 0 L513.431 318.441 L0 318.441 L0 0 Z" copath="M0 0 L513.431 0 L513.431 318.441 L0 318.441 L0 0 Z" gXpos="140.284464566929" gYpos="4794.15848031497" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="145.355330708661" YPOS="5022.63829787234" OwnPage="9" ItemID="435270032" PTYPE="4" WIDTH="250.31757413302" HEIGHT="199.475959122134" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L250.318 0 L250.318 199.476 L0 199.476 L0 0 Z" copath="M0 0 L250.318 0 L250.318 199.476 L0 199.476 L0 0 Z" gXpos="145.355330708661" gYpos="5022.63829787234" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Příklad:"/>
+                <para PARENT="Příklad"/>
+                <ITEXT CH="(1) Gael umístí šedého věřícího na oranžový oltář a vybere akci, která mu umožní provést dva pohyby Hikari. Gael přesune Hikari o dvě pole, přejede přes mnicha od Lary, dokud nedojde ke svému mnichovi (2), který se stává osvíceným. Gael použije žeton meditace a vezme 2 kameny a 2 dřeva. Poté umístí svého osvíceného mnicha na slunce vytištěné na desce. Pak Gael přidá žeton meditace do své rezervy, s akcemi obrácenými dolů."/>
+                <trail PARENT="Příklad"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="811.710638297872" YPOS="4469.77265354331" OwnPage="10" ItemID="435264368" PTYPE="4" WIDTH="173.84255319149" HEIGHT="118.417322834646" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L173.843 0 L173.843 118.417 L0 118.417 L0 0 Z" copath="M0 0 L173.843 0 L173.843 118.417 L0 118.417 L0 0 Z" gXpos="811.710638297872" gYpos="3587.88288976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Nárok na oběti"/>
+                <para PARENT="Heading 3"/>
+                <ITEXT CH="Vezměte si jednu z odměn na stupnici obětí, která odpovídá buď místu, kde je umístěna váš ukazatel nebo kteroukoli z nižších polí. Vraťte svůj ukazatel na stupnici obětí na výchozí místo."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="999" YPOS="4469.77265354331" OwnPage="10" ItemID="435284192" PTYPE="4" WIDTH="250.553191489362" HEIGHT="322.057133690731" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L250.553 0 L250.553 322.057 L0 322.057 L0 0 Z" copath="M0 0 L250.553 0 L250.553 322.057 L0 322.057 L0 0 Z" gXpos="999" gYpos="3587.88288976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Obětní oltář"/>
+                <para PARENT="Heading 3"/>
+                <ITEXT CH="Umístěte věřícího na obětní oltář a proveďte jednu z následujících možností:"/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Pomodlete se"/>
+                <para PARENT="Heading 4"/>
+                <ITEXT CH="Umístěte svůj druhý zvonek na první dostupné místo zleva na pravé straně stupnice pořadí tahů. Poté si vezměte 1 kadidlo nebo využijte sbírku. Pokud si přejete, můžete také nárokovat oběti (viz &quot;Nárok na oběti&quot; výše)."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Pokud se rozhodnete pro sbírku, vezměte 2/3/4 mince podle toho, kolik je na oltáři věřících různých barev."/>
+                <para PARENT="Běžný odstavec"/>
+                <ITEXT CH="Příklad:"/>
+                <para PARENT="Příklad"/>
+                <ITEXT CH="(1) Gael umisťuje šedého věřícího na obětní oltář, aby se pomodlil. Umístí svůj druhý zvonek na první dostupné pole (začínající zleva doprava) na stupnici pořadí tahů (2). Poté, když jsou na oltáři věřící dvou různých barev (šedá a oranžová), vezme 3 mince a rozhodne se nepřevzít oběti, protože si přeje ponechat svůj ukazatel na stupnici obětí tam, kde je, aby později obdržel lepší odměny."/>
+                <trail PARENT="Příklad"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="735.075551851231" YPOS="4470.12380633272" OwnPage="10" ItemID="435278528" PTYPE="2" WIDTH="75.4215111408947" HEIGHT="71.5319148936164" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.233764427756916" LOCALSCY="0.233764427756916" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_11_01.png" IRENDER="0" EMBEDDED="0" path="M0 0 L75.4215 0 L75.4215 71.5319 L0 71.5319 L0 0 Z" copath="M0 0 L75.4215 0 L75.4215 71.5319 L0 71.5319 L0 0 Z" gXpos="139.79996130005" gYpos="3588.23404255319" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="734.978723404255" YPOS="4591.93617021277" OwnPage="10" ItemID="435261536" PTYPE="2" WIDTH="258.212765957447" HEIGHT="298.446808510638" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.259771394323387" LOCALSCY="0.259771394323387" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_11_02.png" IRENDER="0" EMBEDDED="0" path="M0 0 L258.213 0 L258.213 298.447 L0 298.447 L0 0 Z" copath="M0 0 L258.213 0 L258.213 298.447 L0 298.447 L0 0 Z" gXpos="734.978723404255" gYpos="4591.93617021277" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="736" YPOS="4896.77265354331" OwnPage="10" ItemID="435312512" PTYPE="4" WIDTH="250.553191489362" HEIGHT="78.8869209247732" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L250.553 0 L250.553 78.8869 L0 78.8869 L0 0 Z" copath="M0 0 L250.553 0 L250.553 78.8869 L0 78.8869 L0 0 Z" gXpos="736" gYpos="4014.88288976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Příklad:"/>
+                <para PARENT="Příklad"/>
+                <ITEXT CH="Lara se rozhodne nárokovat oběti. Může si vzít smaragd, ale v tomto případě, protože se jí to hodí, se rozhodne vzít dvě mince. Následně vrátí svou značku na stupnici oběti na první místo (které má ikonu)."/>
+                <trail PARENT="Příklad"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="737.127659574468" YPOS="4978.77365354331" OwnPage="10" ItemID="435315344" PTYPE="4" WIDTH="249.425531914894" HEIGHT="96.5625166694554" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L249.426 0 L249.426 96.5625 L0 96.5625 L0 0 Z" copath="M0 0 L249.426 0 L249.426 96.5625 L0 96.5625 L0 0 Z" gXpos="737.127659574468" gYpos="4096.88388976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Na třetím poli stupnice obětí můžete vybírat mezi dvěma odměnami: buď si vezmete dvě mince nebo odemknete svůj šestý Jokoro. Pokud si vyberete druhou možnost, vezměte Jokoro vaší barvy z  třetího pole stupnice obětí na herní desce a umístěte ho do své herní oblasti. Nyní máte tento šestý Jokoro k dispozici."/>
+                <trail PARENT="Běžný odstavec"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="743.255319148936" YPOS="5079.29787234042" OwnPage="10" ItemID="435309680" PTYPE="2" WIDTH="226.981901323505" HEIGHT="116.95744680851" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.272160553145689" LOCALSCY="0.272160553145689" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_11_04.png" IRENDER="0" EMBEDDED="0" path="M0 0 L226.982 0 L226.982 116.957 L0 116.957 L0 0 Z" copath="M0 0 L226.982 0 L226.982 116.957 L0 116.957 L0 0 Z" gXpos="743.255319148936" gYpos="5079.29787234042" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1000.85106382979" YPOS="4796.59574468085" OwnPage="10" ItemID="435289856" PTYPE="2" WIDTH="241.512140894623" HEIGHT="181.787234042553" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.129662791756457" LOCALSCY="0.129662791756457" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_11_03.png" IRENDER="0" EMBEDDED="0" path="M0 0 L241.512 0 L241.512 181.787 L0 181.787 L0 0 Z" copath="M0 0 L241.512 0 L241.512 181.787 L0 181.787 L0 0 Z" gXpos="1000.85106382979" gYpos="4796.59574468085" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1001.17021276596" YPOS="4987.44680851064" OwnPage="10" ItemID="435318176" PTYPE="2" WIDTH="240.021276595745" HEIGHT="122.317971016925" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.129182603119346" LOCALSCY="0.129182603119346" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="PG_11_05.png" IRENDER="0" EMBEDDED="0" path="M0 0 L240.021 0 L240.021 122.318 L0 122.318 L0 0 Z" copath="M0 0 L240.021 0 L240.021 122.318 L0 122.318 L0 0 Z" gXpos="1001.17021276596" gYpos="4987.44680851064" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
